@@ -16,5 +16,5 @@ This Java project compares two string search and two compression algorithms and 
 2. Use the Search Bar to find text in the file (code is intially using KMP Search, change line 188 of Assignment5 to switch to Brute Search)
 3. Select compression, add input and output files then run with either Huffman coding or Lempel Ziv algorithms
 
-####Note
+###Note
 Ngrams is incomplete
